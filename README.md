@@ -1,12 +1,13 @@
 # Mem Status
 
-[icon](https://raw.githubusercontent.com/tinoschroeter/mem.status/master/screenshot.png)
+![icon](https://raw.githubusercontent.com/tinoschroeter/mem.status/master/screenshot.png)
 
 
 I often run out of RAM, so I try to keep an eye on it.
 
 ```bash
 sudo git clone https://github.com/tinoschroeter/mem.status.git /opt/mem.status
+npm install
 ```
 
 ## systemD setup
